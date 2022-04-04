@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\obj\Debug\net5.0\VsCode.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\obj\Debug\net5.0\VsCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\obj\Debug\net5.0\VsCode.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\obj\Debug\net5.0\VsCode.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\obj\Debug\net5.0\VsCode.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\bin\Debug\net5.0\VsCode.exe
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\bin\Debug\net5.0\VsCode.deps.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\bin\Debug\net5.0\VsCode.runtimeconfig.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\bin\Debug\net5.0\VsCode.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\bin\Debug\net5.0\VsCode.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\bin\Debug\net5.0\VsCode.pdb
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\obj\Debug\net5.0\VsCode.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\obj\Debug\net5.0\refint\VsCode.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\obj\Debug\net5.0\VsCode.pdb
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\obj\Debug\net5.0\VsCode.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VScode\Aula3VSC\obj\Debug\net5.0\ref\VsCode.dll

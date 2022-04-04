@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XVdLWtYLLzY7z6VU3Y1i9W5mSkiruFi129YKDwGJsRnC6Qk5wMZilRyVRq0sI6dJ0MK1zZz87NEdew3d7Bop/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\Atividades Generation\\C#\\VS\\Aula3VS\\Aula3VS\\Aula3VS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
