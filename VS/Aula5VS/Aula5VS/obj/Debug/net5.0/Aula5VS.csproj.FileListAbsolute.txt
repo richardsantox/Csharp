@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\bin\Debug\net5.0\Aula5VS.exe
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\bin\Debug\net5.0\Aula5VS.deps.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\bin\Debug\net5.0\Aula5VS.runtimeconfig.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\bin\Debug\net5.0\Aula5VS.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\bin\Debug\net5.0\Aula5VS.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\bin\Debug\net5.0\Aula5VS.pdb
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\obj\Debug\net5.0\refint\Aula5VS.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.pdb
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\obj\Debug\net5.0\Aula5VS.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Aula5VS\Aula5VS\obj\Debug\net5.0\ref\Aula5VS.dll

@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\bin\Debug\net5.0\Calculo_de_IMC.exe
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\bin\Debug\net5.0\Calculo_de_IMC.deps.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\bin\Debug\net5.0\Calculo_de_IMC.runtimeconfig.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\bin\Debug\net5.0\Calculo_de_IMC.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\bin\Debug\net5.0\Calculo_de_IMC.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\bin\Debug\net5.0\Calculo_de_IMC.pdb
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\obj\Debug\net5.0\Calculo_de_IMC.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\obj\Debug\net5.0\Calculo_de_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\obj\Debug\net5.0\Calculo_de_IMC.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\obj\Debug\net5.0\Calculo_de_IMC.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\obj\Debug\net5.0\Calculo_de_IMC.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\obj\Debug\net5.0\Calculo_de_IMC.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\obj\Debug\net5.0\refint\Calculo_de_IMC.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\obj\Debug\net5.0\Calculo_de_IMC.pdb
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\obj\Debug\net5.0\Calculo_de_IMC.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\Calculo_de_IMC\Calculo_de_IMC\obj\Debug\net5.0\ref\Calculo_de_IMC.dll
