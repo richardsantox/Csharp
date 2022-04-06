@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\bin\Debug\net5.0\TabuadaVS.exe
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\bin\Debug\net5.0\TabuadaVS.deps.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\bin\Debug\net5.0\TabuadaVS.runtimeconfig.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\bin\Debug\net5.0\TabuadaVS.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\bin\Debug\net5.0\TabuadaVS.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\bin\Debug\net5.0\TabuadaVS.pdb
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\obj\Debug\net5.0\TabuadaVS.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\obj\Debug\net5.0\TabuadaVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\obj\Debug\net5.0\TabuadaVS.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\obj\Debug\net5.0\TabuadaVS.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\obj\Debug\net5.0\TabuadaVS.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\obj\Debug\net5.0\TabuadaVS.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\obj\Debug\net5.0\refint\TabuadaVS.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\obj\Debug\net5.0\TabuadaVS.pdb
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\obj\Debug\net5.0\TabuadaVS.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\VS\TabuadaVS\TabuadaVS\obj\Debug\net5.0\ref\TabuadaVS.dll
