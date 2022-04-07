@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\obj\Debug\net5.0\Aula7Calculadora.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\obj\Debug\net5.0\Aula7Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\obj\Debug\net5.0\Aula7Calculadora.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\obj\Debug\net5.0\Aula7Calculadora.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\obj\Debug\net5.0\Aula7Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\bin\Debug\net5.0\Aula7Calculadora.exe
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\bin\Debug\net5.0\Aula7Calculadora.deps.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\bin\Debug\net5.0\Aula7Calculadora.runtimeconfig.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\bin\Debug\net5.0\Aula7Calculadora.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\bin\Debug\net5.0\Aula7Calculadora.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\bin\Debug\net5.0\Aula7Calculadora.pdb
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\obj\Debug\net5.0\Aula7Calculadora.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\obj\Debug\net5.0\refint\Aula7Calculadora.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\obj\Debug\net5.0\Aula7Calculadora.pdb
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\obj\Debug\net5.0\Aula7Calculadora.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula7Calculadora\obj\Debug\net5.0\ref\Aula7Calculadora.dll
