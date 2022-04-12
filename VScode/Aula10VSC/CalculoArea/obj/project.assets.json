@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\Atividades Generation\\C#\\Exercicios\\VS\\Aula8VS\\Aula8VS\\Aula8VS.csproj",
-      "projectName": "Aula8VS",
-      "projectPath": "C:\\Users\\Pichau\\Desktop\\Atividades Generation\\C#\\Exercicios\\VS\\Aula8VS\\Aula8VS\\Aula8VS.csproj",
+      "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\Atividades Generation\\C#\\Exercicios\\VScode\\Aula10VSC\\CalculoArea\\CalculoArea.csproj",
+      "projectName": "CalculoArea",
+      "projectPath": "C:\\Users\\Pichau\\Desktop\\Atividades Generation\\C#\\Exercicios\\VScode\\Aula10VSC\\CalculoArea\\CalculoArea.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pichau\\Desktop\\Atividades Generation\\C#\\Exercicios\\VS\\Aula8VS\\Aula8VS\\obj\\",
+      "outputPath": "C:\\Users\\Pichau\\Desktop\\Atividades Generation\\C#\\Exercicios\\VScode\\Aula10VSC\\CalculoArea\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BkfpGQBh5HALG5Tv/B1ymzxARAj47KBh6fAueiAB/CW9jZllVaZeyebztJj/y3wLgAQpPYHZ5EcQZME4JmPjNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\Atividades Generation\\C#\\Exercicios\\VScode\\Aula10VSC\\CalculoArea\\CalculoArea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

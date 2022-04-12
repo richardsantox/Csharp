@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KjN4IaL9x89+GqAAF13ecIdVd/S8H+Z9Xk2LSeXZRADU17Og6wRxIz/TbMbgf3Wi1P8CFkaUvpW4Y7I+PpqKKg==",
+  "dgSpecHash": "g+S9wgFgbRIpj+4F3pYwvn3YZEH6ycn+Gc4hh8IjxqZ68LxDuoEDjf4tj0ebJJOuw3eLgVSRZTAhtvtpqlEdGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\Atividades Generation\\C#\\VS\\Aula8VS\\Aula8VS\\Aula8VS.csproj",
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\Atividades Generation\\C#\\Exercicios\\VS\\Aula8VS\\Aula8VS\\Aula8VS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],

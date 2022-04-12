@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e0T5PriHAb79ARv28lclD/32rncEVuD3jaj78NMQKs96Lx7GiJMqpfq/vTOaq3REAiB6+/JZcbuPzZI+ZbgYSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\Atividades Generation\\C#\\Exercicios\\VScode\\Aula10VSC\\Zoologico\\Zoologico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

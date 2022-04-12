@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\bin\Debug\net5.0\CalculoArea.exe
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\bin\Debug\net5.0\CalculoArea.deps.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\bin\Debug\net5.0\CalculoArea.runtimeconfig.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\bin\Debug\net5.0\CalculoArea.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\bin\Debug\net5.0\CalculoArea.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\bin\Debug\net5.0\CalculoArea.pdb
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\obj\Debug\net5.0\CalculoArea.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\obj\Debug\net5.0\CalculoArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\obj\Debug\net5.0\CalculoArea.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\obj\Debug\net5.0\CalculoArea.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\obj\Debug\net5.0\CalculoArea.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\obj\Debug\net5.0\CalculoArea.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\obj\Debug\net5.0\refint\CalculoArea.dll
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\obj\Debug\net5.0\CalculoArea.pdb
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\obj\Debug\net5.0\CalculoArea.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Atividades Generation\C#\Exercicios\VScode\Aula10VSC\CalculoArea\obj\Debug\net5.0\ref\CalculoArea.dll
