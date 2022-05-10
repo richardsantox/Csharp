@@ -1,15 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-<<<<<<< HEAD
     "\\CalculoArea",
-    "\\Zoologico"
+    "\\CalculoArea\\src"
   ],
-  "SelectedNode": "\\Aula10VSC.sln",
-=======
-    "\\CalculoArea"
-  ],
-  "SelectedNode": "\\CalculoArea",
->>>>>>> 28389bee1bedb1a3823d31fbc796b236630e9d54
+  "SelectedNode": "\\CalculoArea\\src\\AreaCalculo.cs",
   "PreviewInSolutionExplorer": false
 }
